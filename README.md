@@ -12,7 +12,7 @@ Hi there, I'm Yelarys. <br><br>🔭 I’m currently working on building full-sta
 ![](https://nirzak-streak-stats.vercel.app/?user=yolorys&theme=maroongold&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yolorys&theme=maroongold&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote Of The Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---

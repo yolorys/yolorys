@@ -1,6 +1,11 @@
 # 💫 About Me:
 Hi there, I'm Yelarys. <br><br>🔭 I’m currently working on building full-stack projects with React and Node.js.<br>👯 I’m looking to collaborate on projects that make tech education more accessible.<br>⚡ Fun fact: I make good chow mien.
 
+<div align="center">
+  <img height="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjNuN216ODJyNWZ5djE0MHF6dmx1ZjNwMnA5NnVqd29pbGkyY25mYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eSwGh3YK54JKU/giphy.gif"  />
+</div>
+
+###
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yelarysseidin/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yelarysseidin05@gmail.com) 

@@ -1,5 +1,5 @@
 # 💫 Welcome to My GitHub:
-Hi there, I'm Yelarys. <br><br>🔭 I’m currently working on building full-stack projects with React and Node.js.<br>👯 I’m looking to collaborate on projects that make tech education more accessible.<br>
+Hi there, I'm Yelarys. <br><br>🔭 I’m currently working on building full-stack projects.<br>👯 I’m looking to collaborate on projects that make tech education more accessible.<br>
 
 ###
 

@@ -12,11 +12,6 @@ Hi there, I'm Yelarys. <br><br>🔭 I’m currently working on building full-sta
   <img alt="github-snake" src="https://raw.githubusercontent.com/yolorys/yolorys/output/github-snake.svg" />
 </picture>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yolorys&theme=maroongold&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=yolorys&theme=maroongold&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yolorys&theme=maroongold&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ### ✍️ Quote Of The Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 

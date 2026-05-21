@@ -1,5 +1,4 @@
-# 💫 Welcome to My GitHub:
-Hi there, I'm Yelarys. <br><br>🔭 I’m currently working on building full-stack projects.<br>👯 I’m looking to collaborate on meaningful and impactful projects.<br>
+Second-year CS & Math student at Dakota State University. Researching rare tactical events in chess, leading cyber education, and engineering anything that comes to my mind.
 
 ###
 

@@ -1,4 +1,4 @@
-Third-year CS & Math student at Dakota State University. Researching rare tactical events in chess, leading cyber education, and engineering anything that comes to my mind.
+Third-year CS & Math student at Dakota State University. Researching cool phenomena in chess and engineering anything that comes to my mind.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yolorys/yolorys/output/github-snake-dark.svg" />
